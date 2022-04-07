@@ -8,3 +8,4 @@ BuildFile
 lib/**/*.py
 BuildSettings
 BuildDownload
+__pycache__
