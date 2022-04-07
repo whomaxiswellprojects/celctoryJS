@@ -1,0 +1,10 @@
+node_modules
+build
+out
+.hostfile
+BuildFileInstance
+BuildFile
+**/*.BuildDebug
+lib/**/*.py
+BuildSettings
+BuildDownload
